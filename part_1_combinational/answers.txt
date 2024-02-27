@@ -2,12 +2,12 @@
 
 3.  Shifters
 
->>
+>> Every iteration in the code generates a selector from 16 elements, so 16 16-to-1 selectors, which means 16 * 15 = 240 2-to-1 selectors. 
 
->>
+>> No selector is required. 
 
->>
+>> Every iteration in the code generates 16 selectors from 2 elements, so 64 2-to-1 selectors. 
 
 ---
 
-Time spent on Part 1: _____
+Time spent on Part 1: 30min
